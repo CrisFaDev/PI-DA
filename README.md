@@ -17,6 +17,8 @@ Por otra parte se realizó un WordCloud de las palabras clave que más se repite
 
 Además, con el fin de monitorear la eficacia de los objetivos de la empresa, se estableció **algunos KPI's** producto del análisis y este se pueda visualizar en un dashboard. Que para este caso si hizo uso de **PowerBI**. 
 
+[Enlace a dashboard](https://drive.google.com/file/d/1wT3C_pWtRtx2EARvxgpQsvYKtbfvBW7N/view?usp=sharing "Enlace a dashboard")
+
 ### Indicaciones adicionales:
 Los archivos contenidos en este repositorio se detallan de la siguiente manera:
 - Dashboard.pbix (Representación gráfica de los datos realizados en powerBI).
