@@ -23,6 +23,3 @@ Los archivos contenidos en este repositorio se detallan de la siguiente manera:
 - EDA_Coursera.ipynb (Analisis exploratorio de datos de dataset *Coursera_courses.csv* y *Coursera_reviews.csv*).
 - EDA_Edx.ipynb (Analisis exploratorio de datos de dataset *edx_courses.csv*)
 - EDA_Udemy.ipynb (Analisis exploratorio de datos de dataset *udemy_courses.csv*).
-- Reporte_Coursera.html (Resultado premilinar de EDA correspondiente a Cousera).
-- Reporte_Edx.html (Resultado premilinar de EDA correspondiente a Edx).
-- Reporte_Udemy.html (Resultado premilinar de EDA correspondiente a Udemy).
